@@ -1,0 +1,7 @@
+{
+  "RPC": "https://rpc.ankr.com/eth",
+  "privateKey": "",
+  "from_number": 18001,
+  "to_number": 18003,
+  "text": "data:,{\"p\":\"erc-20\",\"op\":\"mint\",\"tick\":\"fair\",\"id\":\"number\",\"amt\":\"1000\"}"
+}
